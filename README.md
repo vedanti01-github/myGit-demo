@@ -1,4 +1,4 @@
 # myGit-demo
 This is my first Git Repository.
 <br>
-Author - Vedant Pise
+Author - Vedanti Pise
